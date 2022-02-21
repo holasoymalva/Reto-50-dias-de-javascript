@@ -10,7 +10,7 @@ Web App de retos personales para practicar skills de javascript por 50 dias segu
 
 ### To-do list:
 
-* [ ] Trabajar en un UI Kit
+* [ ] Trabajar en un [UI Kit](https://www.figma.com/file/FU7P2o70x9Ou8sQsZQeIJ7/50-days?node-id=0%3A1)
 * [ ] Maquetar la base del proyecto
 * [ ] Trabajar los estilos pase del UI Kit en Sass
 * [ ] Trabajar en un sistema de Flex-Grid escalable
